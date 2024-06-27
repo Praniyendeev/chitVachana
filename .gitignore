@@ -1,7 +1,9 @@
-cape/checkpoint
-cape/aligne
+CAPE/checkpoint
+CAPE/aligne
 examples
 audioldm2-speech-gigaspeech.pth
-cape/wandb/
-cape/wandb/*.wandb
-cape/exps
+CAPE/wandb/
+CAPE/wandb/*.wandb
+CAPE/exps
+CAPE/delet_me.npy
+CAPE/delet_me.pt
