@@ -1,0 +1,7 @@
+cape/checkpoint
+cape/aligne
+examples
+audioldm2-speech-gigaspeech.pth
+cape/wandb/
+cape/wandb/*.wandb
+cape/exps
