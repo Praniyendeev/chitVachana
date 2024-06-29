@@ -16,8 +16,8 @@ import soundfile as sf
 
 from openai_unet import UNetModel
 from autoEncoder import AutoencoderKL
-from cape.maeeg import MAEEG_pl
-from cape.maeeg import Encoder
+from CAPE.maeeg import MAEEG_pl
+from CAPE.maeeg import Encoder
 from audioldm2.latent_diffusion.modules.encoders.modules import SequenceGenAudioMAECond
 from audioldm_train.utilities.data.eeg_dataset import EEGDataset
 
